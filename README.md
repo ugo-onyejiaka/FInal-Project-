@@ -52,6 +52,6 @@ The script will display a bar chart showing the average scores for Critical Read
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE.md file for  details.
 
 ---
